@@ -1,0 +1,5 @@
+Maria, 25, Manager
+João, 29, Data Scientist
+Jorge, 30, Developer
+Rita, 28, Data Scientist
+Bob, 32, Developer

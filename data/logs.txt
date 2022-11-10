@@ -1,0 +1,8 @@
+SUCCESS, congratulations!
+ERROR: out of memory
+Index ou of bounds error
+Missing ; ERROR
+UAU, no errors!
+MySQL ERROR
+SOMANYERRORS!
+MySQL TERROR
