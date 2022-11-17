@@ -1,6 +1,6 @@
-name,age,job
-Maria,25,Manager
-João,30,Data Scientist
-Jorge,30,Developer
-Rita,28,Data Scientist
-Bob,32,Developer
+name,age,job,salary,prize
+Maria,25,Manager,2000,100
+João,30,Data Scientist,1500,250
+Jorge,30,Developer,1400,200
+Rita,-2,Data Scientist,1600,500
+Bob,32,Developer,1000,-1
